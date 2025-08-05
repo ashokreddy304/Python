@@ -5,6 +5,9 @@ Welcome to the Python for Data Science - Daily Topics repository! This series is
 🧠Who Is This For?
 
 🎓 Students learning Python for the first time
+
 📊 Aspiring Data Analysts or Data Scientists
+
 💼 Professionals looking to switch to data roles
+
 👨‍💻 Anyone preparing for Python-based interviews
