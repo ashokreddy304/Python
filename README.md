@@ -15,4 +15,4 @@ Welcome to the Python for Data Science - Daily Topics repository! This series is
 
 ⭐ Stay Connected
 
-If you find this project useful, don’t forget to star the repo and share it with others who want to master Python for Data Science!
+If you find this course useful, don’t forget to star the repo and share it with others who want to master Python for Data Science!
