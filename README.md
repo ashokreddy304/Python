@@ -63,6 +63,6 @@ This repository contains **core Python topics** essential for automation, data m
 
 ## 📫 Connect With Me  
 - [LinkedIn](www.linkedin.com/in/cashok-reddy)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub](https://github.com/ashokreddy304)  
 
 ⭐ **Follow my journey and give this repo a star if you find it useful!**  
