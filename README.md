@@ -21,6 +21,7 @@ This repository contains **core Python topics** essential for automation, data m
    ├── Day 01 – Identifier  
    ├── Day 02 – Reserved Words  
    ├── Day 03 – Type Casting
+   
    ├── Day 04 – Data_Types 
    ├── Day 05 – Input and output statements 
    ├── Day 06 – Accessing Elements(Index & Slice)  
