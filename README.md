@@ -36,14 +36,15 @@ This repository contains **core Python topics** essential for automation, data m
 ---
 
 ## ✅ Topics Covered (Updating Daily)  
-✔ Identifiers & Variables and Reserved Words
-✔ index and slicing 
-✔ Input and output statements 
-✔ Operators
+✔ Identifiers & Variables  
+✔ Reserved Words  
+✔ Index and Slicing  
+✔ Input and Output Statements  
+✔ Operators  
 ✔ Data Types (int, float, string, etc.)  
 ✔ Data Structures (List, Tuple)  
-✔ Control Flow (if-else, loops)   
-
+✔ Control Flow (if-else, loops)  
+ 
 ---
 
 ## 🔍 Why This Repository?  
