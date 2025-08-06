@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Welcome to my **Python Learning Repository**!  
-This is my **day-by-day journey of mastering Python**, focusing on the fundamentals required for **Data Science & Analytics**.  
+This is my **day-by-day journey of mastering Python**, focusing on the fundamentals required for **Data Science & Analytics & ML and AI engineer**.  
 
 ---
 
@@ -61,7 +61,7 @@ This repository contains **core Python topics** essential for automation, data m
 - **Name:** Ashok Reddy  
 - **Role:** Data Analyst (3+ years experience)  
 - **Skills:** SQL, Power BI, Excel, Python (Learning), Pandas, NumPy  
-- **Goal:** Become a **Data Scientist** with strong Python & ML expertise  
+- **Goal:** Become a **Data Scientist** with strong Python & ML expertise AI engineer.
 
 ---
 
