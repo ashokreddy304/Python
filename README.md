@@ -11,7 +11,7 @@ This is my **day-by-day journey of mastering Python**, focusing on the fundament
 ---
 
 ## 📌 About This Repository  
-I am a **Data Analyst with 3+ years of experience**, expanding my Python skills to move toward **Data Science**.  
+I am a **Data Analyst with 3+ years of experience**, expanding my Python skills to move toward **Data Science & Analytics & ML and AI engineer**.  
 This repository contains **core Python topics** essential for automation, data manipulation, and analytics.  
 
 ---
