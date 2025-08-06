@@ -17,20 +17,22 @@ This repository contains **core Python topics** essential for automation, data m
 ---
 
 ## 🗂 Folder Structure  
-📁 **Python_Basics/**  
-├── Day 01 – Identifiers  
-├── Day 02 – Reserved Words  
-├── Day 03 – Type Casting  
-├── Day 04 – Data Types  
-├── Day 05 – Input and Output Statements  
-├── Day 06 – Indexing and Slicing  
-├── Day 07 – Operators  
-├── Day 08 – Flow Control Statements  
-├── Day 09 – range(start, stop, step)  
-├── Day 10 – List []  
-├── Day 11 – Tuple ()  
+```markdown
+📁 Python_Basics/
+├── Day 01 – Identifiers
+├── Day 02 – Reserved Words
+├── Day 03 – Type Casting
+├── Day 04 – Data Types
+├── Day 05 – Input and Output Statements
+├── Day 06 – Indexing and Slicing
+├── Day 07 – Operators
+├── Day 08 – Flow Control Statements
+├── Day 09 – range(start, stop, step)
+├── Day 10 – List []
+├── Day 11 – Tuple ()
 ├── Day 12 – set{}
-└── *(and continuing...)*  
+└── (and continuing...)
+``` 
 
 ---
 
