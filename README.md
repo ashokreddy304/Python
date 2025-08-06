@@ -6,45 +6,48 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Welcome to my **Python Learning Repository**!  
-This is a **day-by-day journey of mastering Python**, focusing on the fundamentals required for **Data Science & Analytics and ML and AI**.  
+This is my **day-by-day journey of mastering Python**, focusing on the fundamentals required for **Data Science & Analytics**.  
 
 ---
 
 ## 📌 About This Repository  
-I am a **Data Analyst with 3+ years of experience** expanding my Python skills to transition toward **Data Science and ML & AI engineer**.  
-This repository contains **core Python topics** essential for automation, data manipulation, and analytical tasks.  
+I am a **Data Analyst with 3+ years of experience**, expanding my Python skills to move toward **Data Science**.  
+This repository contains **core Python topics** essential for automation, data manipulation, and analytics.  
 
 ---
 
 ## 🗂 Folder Structure  
-
 📁 **Python_Basics/**  
-├── Day 01 – Identifier  
+├── Day 01 – Identifiers  
 ├── Day 02 – Reserved Words  
 ├── Day 03 – Type Casting  
 ├── Day 04 – Data Types  
 ├── Day 05 – Input and Output Statements  
-├── Day 06 – Accessing Elements (Index & Slice)  
+├── Day 06 – Indexing and Slicing  
 ├── Day 07 – Operators  
 ├── Day 08 – Flow Control Statements  
 ├── Day 09 – range(start, stop, step)  
 ├── Day 10 – List []  
 ├── Day 11 – Tuple ()  
-└── (and continuing...)  
- 
+└── *(and continuing...)*  
 
 ---
 
 ## ✅ Topics Covered (Updating Daily)  
-✔ Identifiers & Variables  
-✔ Reserved Words  
-✔ Index and Slicing  
-✔ Input and Output Statements  
-✔ Operators  
-✔ Data Types (int, float, string, etc.)  
-✔ Data Structures (List, Tuple)  
-✔ Control Flow (if-else, loops)  
- 
+- [x] Identifiers & Variables  
+- [x] Reserved Words  
+- [x] Indexing and Slicing  
+- [x] Input and Output Statements  
+- [x] Operators  
+- [x] Data Types (int, float, string, etc.)  
+- [x] Data Structures (List, Tuple)  
+- [x] Control Flow (if-else, loops)  
+- [ ] Functions  
+- [ ] File Handling  
+- [ ] Modules & Packages  
+- [ ] Exception Handling  
+- [ ] OOP in Python (Classes & Objects)  
+
 ---
 
 ## 🔍 Why This Repository?  
@@ -55,14 +58,16 @@ This repository contains **core Python topics** essential for automation, data m
 ---
 
 ## 👨‍💻 About Me  
-- **Current Role:** Data Analyst (3+ years experience)  
+- **Name:** Ashok Reddy  
+- **Role:** Data Analyst (3+ years experience)  
 - **Skills:** SQL, Power BI, Excel, Python (Learning), Pandas, NumPy  
 - **Goal:** Become a **Data Scientist** with strong Python & ML expertise  
 
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn](www.linkedin.com/in/cashok-reddy)  
-- [GitHub](https://github.com/ashokreddy304)  
+📧 **Email:** [cashokreddy499@gmail.com](mailto:cashokreddy499@gmail.com)  
+📌 **LinkedIn:** [www.linkedin.com/in/cashok-reddy](https://www.linkedin.com/in/cashok-reddy)  
+📂 **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
 
 ⭐ **Follow my journey and give this repo a star if you find it useful!**  
