@@ -28,9 +28,11 @@ This repository contains **core Python topics** essential for automation, data m
 ├── Day 07 – Operators
 ├── Day 08 – Flow Control Statements
 ├── Day 09 – range(start, stop, step)
-├── Day 10 – List []
-├── Day 11 – Tuple ()
-├── Day 12 – set{}
+├── Day 10 – string
+├── Day 11 – List []
+├── Day 12 – Tuple ()
+├── Day 13 – set{}
+├── Day 14 – dictionary{kay:value}
 └── (and continuing...)
 ``` 
 
@@ -43,7 +45,7 @@ This repository contains **core Python topics** essential for automation, data m
 - [x] Input and Output Statements  
 - [x] Operators  
 - [x] Data Types (int, float, string, etc.)  
-- [x] Data Structures (List, Tuple,set)  
+- [x] Data Structures (List, Tuple,set,dict)  
 - [x] Control Flow (if-else, loops)  
 - [ ] Functions  
 - [ ] File Handling  
