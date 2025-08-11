@@ -33,6 +33,7 @@ This repository contains **core Python topics** essential for automation, data m
 ├── Day 12 – Tuple ()
 ├── Day 13 – set{}
 ├── Day 14 – dictionary{kay:value}
+├── Day 15 – functions
 └── (and continuing...)
 ``` 
 
@@ -48,7 +49,7 @@ This repository contains **core Python topics** essential for automation, data m
 - [x] Data Structures (List, Tuple,set,dict)  
 - [x] Control Flow (if-else, loops)  
 - [ ] Functions  
-- [ ] File Handling  
+- [x] File Handling  
 - [ ] Modules & Packages  
 - [ ] Exception Handling  
 - [ ] OOP in Python (Classes & Objects)  
