@@ -48,8 +48,8 @@ This repository contains **core Python topics** essential for automation, data m
 - [x] Data Types (int, float, string, etc.)  
 - [x] Data Structures (List, Tuple,set,dict)  
 - [x] Control Flow (if-else, loops)  
-- [ ] Functions  
-- [x] File Handling  
+- [x] Functions  
+- [ ] File Handling  
 - [ ] Modules & Packages  
 - [ ] Exception Handling  
 - [ ] OOP in Python (Classes & Objects)  
